@@ -2,7 +2,7 @@
   <h1 align="center">Hi, i am Ivan 👋</h1>
 </div>
 
-<img src"<blockquote class="imgur-embed-pub" lang="en" data-id="a/nuYkYjl"  ><a href="//imgur.com/a/nuYkYjl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
+<img src"https://imgur.com/a/nuYkYjl">
 
 # 💫 About Me:
 I'm passionate software developer with a young spirit and a great passion for programming. 
