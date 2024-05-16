@@ -23,7 +23,7 @@ If you are looking for someone who brings energy, creativity and dedication? I a
       <div align="center">
         <img src="https://i.imgur.com/3OT3yuA.png">
         <p>
-          <a href="https://github.com/iamivanvila/ford-it-react" target="_blank">
+          <a href="https://github.com/iamivanvila/ford-it-react" target="_blank" link="">
           <img src="https://img.shields.io/badge/-view_repository-EB49FF?logo=github">  
           </a>
         </p>
@@ -35,7 +35,7 @@ If you are looking for someone who brings energy, creativity and dedication? I a
         <img src="https://imgur.com/zwOfpnk.png">
         <p>
           <a href="https://github.com/iamivanvila/" >
-          <img src="https://img.shields.io/badge/-view_repository-EB49FF?logo=github">  
+          <img src="https://img.shields.io/badge/-view_repository-EB49FF?logo=github" target="_blank" link="">  
           </a>
         </p>
       </div>
