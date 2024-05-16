@@ -32,7 +32,7 @@ If you are looking for someone who brings energy, creativity and dedication? I a
     <td width="50%">
       <h3 align="center">Game Pokemon</h3>
       <div align="center">
-        <img src="https://i.imgur.com/2ZjXLhC.png">
+        <img src="https://i.imgur.com/zwOfpnk.png">
         <p>
           <a href="https://github.com/iamivanvila/" target="_blank">
           <img src="https://img.shields.io/badge/-view_repository-EB49FF?logo=github">  
