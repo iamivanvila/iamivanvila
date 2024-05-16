@@ -2,7 +2,8 @@
   <h1 align="center">Hi, i am Ivan 👋</h1>
 </div>
 
-<img src="https://i.imgur.com/URxNf49">
+<img src="https://i.imgur.com/URxNf49.png">
+
 
 # 💫 About Me:
 I'm passionate software developer with a young spirit and a great passion for programming. 
