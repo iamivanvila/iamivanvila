@@ -30,11 +30,11 @@ If you are looking for someone who brings energy, creativity and dedication? I a
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Web page Ford.it</h3>
+      <h3 align="center">Game Pokemon</h3>
       <div align="center">
-        <img src="https://i.imgur.com/3OT3yuA.png">
+        <img src="https://i.imgur.com/UGBJW0y.png">
         <p>
-          <a href="https://github.com/iamivanvila/ford-it-react" target="_blank">
+          <a href="https://github.com/iamivanvila/" target="_blank">
           <img src="https://img.shields.io/badge/-view_repository-EB49FF?logo=github">  
           </a>
         </p>
