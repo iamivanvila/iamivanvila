@@ -27,6 +27,7 @@ If you are looking for someone who brings energy, creativity and dedication? I a
           <img src="https://img.shields.io/badge/-view_repository-EB49FF?logo=github">  
           </a>
         </p>
+        lorenmlkdnc lkncekcñewmcñmdcññew lknlknlknknlkn kmlkklkmkmk lmmkm jljjlkkkkkkkkkkkkkkkkkkkkkkkkkkk jlkñjñl ljklñj lj jñkjñl kjkjl ñljñjjlj ñjñljñljl
       </div>
     </td>
     <td width="50%">
