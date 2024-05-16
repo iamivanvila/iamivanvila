@@ -1,5 +1,11 @@
+<div align="center">
+  <h1 align="center">Hi, i am Ivan 👋</h1>
+</div>
+
+<img src"<blockquote class="imgur-embed-pub" lang="en" data-id="a/nuYkYjl"  ><a href="//imgur.com/a/nuYkYjl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
+
 # 💫 About Me:
-Hi! I'm Ivan, a passionate software developer with a young spirit and a great passion for programming. 
+I'm passionate software developer with a young spirit and a great passion for programming. 
 
 My quest for knowledge and determination has brought me to this point in my career, and now I'm more excited than ever for what the future holds.
 
