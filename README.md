@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/URxNf49.png">
 
 
-# 💫 About Me:
+## 💫 About Me:
 I'm passionate software developer with a young spirit and a great passion for programming. 
 My quest for knowledge and determination has brought me to this point in my career, and now I'm more excited than ever for what the future holds.
 With a fresh mindset and unique perspective, I am here to bring my best to the table, both in projects and personal relationships.
@@ -34,7 +34,7 @@ If you are looking for someone who brings energy, creativity and dedication? I a
       <div align="center">
         <img src="https://imgur.com/zwOfpnk.png">
         <p>
-          <a href="https://github.com/iamivanvila/" target="_blank">
+          <a href="https://github.com/iamivanvila/" >
           <img src="https://img.shields.io/badge/-view_repository-EB49FF?logo=github">  
           </a>
         </p>
