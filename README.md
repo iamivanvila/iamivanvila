@@ -7,13 +7,10 @@
 
 # 💫 About Me:
 I'm passionate software developer with a young spirit and a great passion for programming. 
-
 My quest for knowledge and determination has brought me to this point in my career, and now I'm more excited than ever for what the future holds.
-
 With a fresh mindset and unique perspective, I am here to bring my best to the table, both in projects and personal relationships.
 
 My goal is to be more than just a programmer; I aspire to be a valuable contributor on any project I take on. I am eager to face new challenges and explore the possibilities of the IT development world.
-
 Although my roots are in Argentina, my ambition transcends borders. I usually travel the world with my laptop. I am ready and excited to work on both local and international projects. I strongly believe in global collaboration and diversity of ideas as a driver of innovation.
 
 If you are looking for someone who brings energy, creativity and dedication? I am ready to dive head first into any exciting project that has a real impact on the world.
@@ -26,8 +23,8 @@ If you are looking for someone who brings energy, creativity and dedication? I a
       <div align="center">
         <img src="https://i.imgur.com/3OT3yuA.png">
         <p>
-          <a href="https://github.com/iamivanvila/ford-it-react">
-            
+          <a href="https://github.com/iamivanvila/ford-it-react" target="_blank">
+          <img src="https://img.shields.io/badge/-view_repository-EB49FF?logo=github">  
           </a>
         </p>
       </div>
