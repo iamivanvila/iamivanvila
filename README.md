@@ -27,7 +27,7 @@ If you are looking for someone who brings energy, creativity and dedication? I a
           <img src="https://img.shields.io/badge/-view_repository-EB49FF?logo=github">  
           </a>
         </p>
-        lorenmlkdnc lkncekcñewmcñmdcññew lknlknlknknlkn kmlkklkmkmk lmmkm jljjlkkkkkkkkkkkkkkkkkkkkkkkkkkk jlkñjñl ljklñj lj jñkjñl kjkjl ñljñjjlj ñjñljñljl
+        Site designed from the official Ford Italia website and built with React language. I made some improvements mainly in animations and the carousel to improve the user interface (UX). 
       </div>
     </td>
     <td width="50%">
@@ -39,6 +39,7 @@ If you are looking for someone who brings energy, creativity and dedication? I a
           <img src="https://img.shields.io/badge/-view_repository-EB49FF?logo=github" target="_blank" link="">  
           </a>
         </p>
+        Pokemon's own application, where you can choose between 2 characters and compete according to the ability you select, thus giving a winner. Use Javascript and JSON.
       </div>
     </td>
   </tr>
