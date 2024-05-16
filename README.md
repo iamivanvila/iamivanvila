@@ -18,6 +18,22 @@ Although my roots are in Argentina, my ambition transcends borders. I usually tr
 
 If you are looking for someone who brings energy, creativity and dedication? I am ready to dive head first into any exciting project that has a real impact on the world.
 
+## Proyects
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Web page Ford.it</h3>
+      <div align="center">
+        <img src="https://i.imgur.com/3OT3yuA.png">
+        <p>
+          <a href="https://github.com/iamivanvila/ford-it-react">
+            
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ivanjosevila/?locale=en_US) 
