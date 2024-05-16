@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hello everyone! 👋 I'm Ivan, a passionate software developer, with a young spirit and a great passion for programming. At 44 years old, I am embarking on an exciting journey into the world of technology, ready to challenge any obstacle and learn without limits.<br><br>My quest for knowledge and determination has brought me to this point in my career, and now I am more excited than ever for what the future holds.<br>With a fresh mindset and unique perspective, I am here to bring my best to the table, both in project and personal relationships. <br><br>My goal is to be more than just a programmer; I aspire to be a valuable contributor to any project I take on. I am eager to enter into new challenges and explore the possibilities in the IT development world.<br><br>Although my roots are in Argentina, my ambition transcends borders. I'm usually around the world with my laptop. I am ready and excited to work on both local and international projects. I strongly believe in global collaboration and diversity of ideas as a driver for innovation.<br><br>If you are looking for someone who brings energy, creativity and dedication? I'm ready to dive headfirst into any exciting project that has a real impact on the world.<br><br>Let's do amazing things together! 🚀
+Hi! I'm Ivan, a passionate software developer with a young spirit and a great passion for programming. 
+
+My quest for knowledge and determination has brought me to this point in my career, and now I'm more excited than ever for what the future holds.
+
+With a fresh mindset and unique perspective, I am here to bring my best to the table, both in projects and personal relationships.
+
+My goal is to be more than just a programmer; I aspire to be a valuable contributor on any project I take on. I am eager to face new challenges and explore the possibilities of the IT development world.
+
+Although my roots are in Argentina, my ambition transcends borders. I usually travel the world with my laptop. I am ready and excited to work on both local and international projects. I strongly believe in global collaboration and diversity of ideas as a driver of innovation.
+
+If you are looking for someone who brings energy, creativity and dedication? I am ready to dive head first into any exciting project that has a real impact on the world.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ivanjosevila/?locale=en_US) 
